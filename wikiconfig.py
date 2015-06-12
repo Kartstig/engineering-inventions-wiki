@@ -39,7 +39,7 @@ class LocalConfig(multiconfig.DefaultConfig):
     logo_string = u'<img src="%s/common/EI-70x70.png" alt="Engineering Inventions Logo" height="25px">' % url_prefix_static
     # ^^^ DON'T TOUCH THIS EXCEPT IF YOU KNOW WHAT YOU DO ^^^
 
-    page_front_page = u'EngineeringInventionsWiki' # change to some better value
+    page_front_page = u'Home' # change to some better value
     superuser = [u"Admin"]
 
     # Add your configuration items here.
