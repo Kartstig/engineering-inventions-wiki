@@ -1,0 +1,16 @@
+## Please edit system and help pages ONLY in the master wiki!
+## For more information, please see MoinMoin:MoinDev/Translation.
+##master-page:Unknown-Page
+##master-date:Unknown-Date
+#acl -All:write Default
+#format wiki
+#language en
+
+<<AdvancedSearch>>
+
+You can use regular expressions and other search modifiers (see HelpOnSearching), e.g. :
+
+{{{regex:seriali[sz]e}}}
+
+Or you can go directly to a page, or create a new page by entering its name here:
+  <<GoTo>>
